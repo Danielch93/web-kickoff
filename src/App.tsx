@@ -1,10 +1,11 @@
 import React, { Component } from 'react'
+import RouterApp from './Routes'
 
 class App extends Component {
   render() {
     return (
       <div>
-        <h1>Hola Web Kickoff</h1>
+        <RouterApp />
       </div>
     )
   }
