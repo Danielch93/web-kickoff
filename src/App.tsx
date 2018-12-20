@@ -1,11 +1,14 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
 class App extends Component {
   render() {
     return (
-     <h1>Hola Web Kickoff</h1>
-    );
+      <div>
+        <h1>Hola Web Kickoff</h1>
+      </div>
+
+    )
   }
 }
 
-export default App;
+export default App
