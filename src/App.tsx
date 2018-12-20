@@ -6,7 +6,6 @@ class App extends Component {
       <div>
         <h1>Hola Web Kickoff</h1>
       </div>
-
     )
   }
 }
